@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuong111/NodeJS_Blog.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "TuongNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuong111/NodeJS_Blog/issues"
+  },
+  "homepage": "https://github.com/tuong111/NodeJS_Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
